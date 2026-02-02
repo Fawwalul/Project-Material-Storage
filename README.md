@@ -1,5 +1,5 @@
 # Project-Material-Storage
-this repo is a project for learnin a server and GUI
+this repo is a project for learnin a server and GUI (btw it's a draf me "main.py)
 
 and for now i used XAMPP for server local
 ![list data basenya](images/database.jpg)
