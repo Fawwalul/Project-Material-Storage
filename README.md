@@ -6,6 +6,6 @@ and for now i used XAMPP for server local
 
 # preview GUI Spare part item
 
-![main/ME windows]{images/preview.jpg}
+![main/ME windows](images/preview.jpg)
 
 ![Login Material Storage](images/admin.jpg)
